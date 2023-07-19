@@ -1,0 +1,19 @@
+{
+        "InventionId": 7997896701275338307,
+        "ReplicationId": "875a7af6-a938-49c3-9c76-487347576813",
+        "CreatorPlayerId": 11124618,
+        "Name": "Rec Royale Poster",
+        "Description": "the Frontier island poster from Rec Royale",
+        "ImageName": "625wxotn0sbtc9pb7umee97tq.jpg",
+        "CurrentVersionNumber": 1,
+        "CurrentVersion": {
+            "BlobName": "2e2e4zecunzxgqezkkvukv96q.inv",
+            "InventionId": 7997896701275338307,
+            "ReplicationId": "bfb0e6e1-ae20-48a0-ad12-5ded030e5ef2",
+            "VersionNumber": 1,
+            "BlobHash": "xb4iWa+KXHYitmGyRfSigUPXlZ3oW7qnl5p7m23iy50=",
+            "InstantiationCost": 1688,
+            "LightsCost": 0,
+            "ChipsCost": 0,
+            "CloudVariablesCost": 0
+}
